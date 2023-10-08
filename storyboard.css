@@ -1,0 +1,28 @@
+.main-section{
+    /* border: 1px solid blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wireframe img{
+    width: 100%;
+}
+table{
+    background-color: rgba(77, 10, 10,0.3);
+    border-radius: 20px;
+    font-size: 25px;
+    margin-top: 50px;
+    width: 100%;
+}
+td{
+    padding: 10px;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+}
+.tablee{
+    width: 90%;
+}
